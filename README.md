@@ -56,16 +56,6 @@ sudo apt-get update && sudo apt-get install espeak
  <li>Now User can switch b/w J.A.R.V.I.S and F.R.I.D.A.Y, switch to female voice assistant</li>
 </ul>
 
-<table>
-<tr>
-<td><img src="images/email.jpg"/></td>
-
-<td><img src="images/location.png"/></td>
-</tr>
-<td><img src="images/pytube.png"/></td>
-</tr>
-</table>
-
 ## Some Sneak peeks:
 
 <ul>
