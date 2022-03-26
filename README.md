@@ -1,5 +1,5 @@
 # A.S.S.I.S.T.I.F.Y
-## Python powered J.A.R.V.I.S
+## Python powered Assistant
 
 ### Requirements:
 
